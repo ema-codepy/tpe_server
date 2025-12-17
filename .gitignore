@@ -1,0 +1,6 @@
+Git/
+kivy_env/
+__pycache__/
+*.db
+*.csv
+*.spec
